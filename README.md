@@ -18,4 +18,4 @@ At first, the text color wasn’t showing up right because the default global st
 
 ## Screenshot
 Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
-  <img width="1840" height="1197" alt="Screenshot 2025-07-27 at 5 36 55 PM" src="https://github.com/user-attachments/assets/05993583-f266-458e-b727-1511b988dd1d" />
+<img width="1840" height="1191" alt="Screenshot 2025-07-27 at 5 53 34 PM" src="https://github.com/user-attachments/assets/73d46b5e-e77e-42e0-b370-d95a543105f7" />
